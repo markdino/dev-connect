@@ -1,0 +1,171 @@
+[
+  {
+    "id": "0001",
+    "name": "Mark Dino Pelonia",
+    "avatar": "https://avatars1.githubusercontent.com/u/36836488?s=460&u=3bad90fad66e85a12ff90883ea54e2d3ba8f7fe7&v=4",
+    "title": "Frontend Engineer",
+    "company": "Damstra Technology",
+    "blurb": "Hi, I'm a JavaScript & React enthusiast, have an eye for design, convert mock design to a live website, and naturally curious.",
+    "skills": [
+      "javascript",
+      "react",
+      "gatsby",
+      "typescript",
+      "nodejs",
+      "mongodb"
+    ],
+    "contact": [
+      {
+        "type": "website",
+        "url": "https://www.markdino.com"
+      },
+      {
+        "type": "github",
+        "url": "https://github.com/markdino"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://linkedin.com/in/markdinopelonia"
+      },
+      {
+        "type": "email",
+        "url": "markdinopelonia447@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "0002",
+    "name": "Mark Dino Pelonia",
+    "avatar": "https://avatars1.githubusercontent.com/u/36836488?s=460&u=3bad90fad66e85a12ff90883ea54e2d3ba8f7fe7&v=4",
+    "title": "Frontend Engineer",
+    "company": "Damstra Technology",
+    "blurb": "Hi, I'm a JavaScript & React enthusiast, have an eye for design, convert mock design to a live website, and naturally curious.",
+    "skills": [
+      "javascript",
+      "react",
+      "gatsby",
+      "typescript",
+      "nodejs",
+      "mongodb"
+    ],
+    "contact": [
+      {
+        "type": "website",
+        "url": "https://www.markdino.com"
+      },
+      {
+        "type": "github",
+        "url": "https://github.com/markdino"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://linkedin.com/in/markdinopelonia"
+      },
+      {
+        "type": "email",
+        "url": "markdinopelonia447@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "0003",
+    "name": "Mark Dino Pelonia",
+    "avatar": "https://avatars1.githubusercontent.com/u/36836488?s=460&u=3bad90fad66e85a12ff90883ea54e2d3ba8f7fe7&v=4",
+    "title": "Frontend Engineer",
+    "company": "Damstra Technology",
+    "blurb": "Hi, I'm a JavaScript & React enthusiast, have an eye for design, convert mock design to a live website, and naturally curious.",
+    "skills": [
+      "javascript",
+      "react",
+      "gatsby",
+      "typescript",
+      "nodejs",
+      "mongodb"
+    ],
+    "contact": [
+      {
+        "type": "website",
+        "url": "https://www.markdino.com"
+      },
+      {
+        "type": "github",
+        "url": "https://github.com/markdino"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://linkedin.com/in/markdinopelonia"
+      },
+      {
+        "type": "email",
+        "url": "markdinopelonia447@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "0004",
+    "name": "Mark Dino Pelonia",
+    "avatar": "https://avatars1.githubusercontent.com/u/36836488?s=460&u=3bad90fad66e85a12ff90883ea54e2d3ba8f7fe7&v=4",
+    "title": "Frontend Engineer",
+    "company": "Damstra Technology",
+    "blurb": "Hi, I'm a JavaScript & React enthusiast, have an eye for design, convert mock design to a live website, and naturally curious.",
+    "skills": [
+      "javascript",
+      "react",
+      "gatsby",
+      "typescript",
+      "nodejs",
+      "mongodb"
+    ],
+    "contact": [
+      {
+        "type": "website",
+        "url": "https://www.markdino.com"
+      },
+      {
+        "type": "github",
+        "url": "https://github.com/markdino"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://linkedin.com/in/markdinopelonia"
+      },
+      {
+        "type": "email",
+        "url": "markdinopelonia447@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "0005",
+    "name": "Mark Dino Pelonia",
+    "title": "Frontend Engineer",
+    "company": "Damstra Technology",
+    "blurb": "Hi, I'm a JavaScript & React enthusiast, have an eye for design, convert mock design to a live website, and naturally curious.",
+    "skills": [
+      "javascript",
+      "react",
+      "gatsby",
+      "typescript",
+      "nodejs",
+      "mongodb"
+    ],
+    "contact": [
+      {
+        "type": "website",
+        "url": "https://www.markdino.com"
+      },
+      {
+        "type": "github",
+        "url": "https://github.com/markdino"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://linkedin.com/in/markdinopelonia"
+      },
+      {
+        "type": "email",
+        "url": "markdinopelonia447@gmail.com"
+      }
+    ]
+  }
+]
